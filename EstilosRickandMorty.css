@@ -1,19 +1,19 @@
-/* Reseteo básico de márgenes y paddings */
+
 body, h1, h2, p {
     margin: 0;
     padding: 0;
 }
 
-/* Estilos generales del cuerpo */
+
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-    background-color: #2f2f2f; /* Fondo oscuro para un estilo más enigmático */
-    color: #e0e0e0; /* Texto claro para contraste */
+    background-color: #2f2f2f;
+    color: #e0e0e0;
     padding: 0 20px;
 }
 
-/* Estilo del encabezado */
+
 .header {
     background-color: #333;
     color: #f4f4f4;
@@ -32,7 +32,7 @@ body {
     color: #b0b0b0;
 }
 
-/* Estilo para las secciones */
+
 section {
     margin: 20px 0;
     padding: 20px;
@@ -40,7 +40,7 @@ section {
     background-color: #444;
 }
 
-/* Estilo de los títulos dentro de las secciones */
+
 h1 {
     font-size: 2em;
     border-bottom: 2px solid #666;
@@ -48,20 +48,20 @@ h1 {
     margin-bottom: 10px;
 }
 
-/* Estilo del texto de introducción */
+
 .intro-text {
     font-size: 1.2em;
     line-height: 1.8;
     text-align: justify;
 }
 
-/* Estilo para la sinopsis */
+
 .sinopsis-text {
     font-size: 1.1em;
     text-align: justify;
 }
 
-/* Estilo para la lista de personajes */
+
 .Personas-principales ul {
     list-style-type: none;
     padding: 0;
@@ -73,7 +73,7 @@ h1 {
 
 .Nombre {
     font-size: 1.5em;
-    color: #f4a261; /* Color naranja para destacar los nombres */
+    color: #f4a261;
     margin-bottom: 5px;
     text-align: center;
 }
@@ -85,9 +85,9 @@ h1 {
     margin: 10px auto;
 }
 
-/* Estilo del enlace en la sección de referencias */
+
 a {
-    color: #1e90ff; /* Azul brillante para enlaces */
+    color: #1e90ff;
     text-decoration: none;
     text-align: center;
 }
@@ -96,7 +96,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Estilo para la línea horizontal */
+
 hr {
     border: 0;
     border-top: 1px solid #666;
