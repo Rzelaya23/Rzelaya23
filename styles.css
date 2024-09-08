@@ -1,75 +1,75 @@
-/* EStilos de funte y color usando Google Fonts */
+
 body{
     font-family: 'Roboto',sans-serif;
-    background-color: #f9fafb;/*color de fondo mas suave*/
-    color: #2c3e50;/*color de texto principal mas oscuro*/
-    line-height: 1.6;/*mejorando la legibilidad con mayor interlineado*/
+    background-color: #f9fafb;
+    color: #2c3e50;
+    line-height: 1.6;
 
 }
 
 .main-title{
     font-family: 'Monserrat',sans-serif;
-    color: #2980b9;/*Azul vibrante para el titulo principal*/
-    font-size: 3em;/*tamaño de fuente mas grande*/
+    color: #2980b9;
+    font-size: 3em;
     text-align: center;
-    margin-top: 20px;/*espacio superior separar del borde */
+    margin-top: 20px;
 
 }
 
 .subtitle{
     font-family: 'Monstserrat',sans-serif;
-    color: #3498db;/*color de subtitulo en azul claro*/
+    color: #3498db;
     font-size: 2em;
     text-align: center;
-    margin-bottom: 10px;/*espacio inferios para separar del sigiente contenido*/
+    margin-bottom: 10px;
 
 }
 
 .intro-text{
-    font-size: 1,2em;/*texto introducorio ligeramente mas grande*/
-    color: #34495e; /*color de texto mas oscuro*/
+    font-size: 1,2em;
+    color: #34495e; 
     text-align: center;
 }
 
 .country-section{
     font-family: 'Roboto',sans-serif;
     text-align: center;
-    margin-top: 30px;/*espacio superior para separacion entre secciones */
+    margin-top: 30px;
 
 }
 
 .country-image{
-    width: 80%; /*ajustando las imagnes para ser mas responsivas*/
-    max-width: 500px;/*limite de tamaño maximo para mantener la uniformidad*/
+    width: 80%; 
+    max-width: 500px;
     height: auto;
-    display: block; /*haciendo que las imagenes se centren en bloque*/
-    margin: 0 auto;/*centrando las imagenes*/
+    display: block; 
+    margin: 0 auto;
 }
 
 .country-section h3{
-    color: #e74c3c;/*rojo vibrante para los nombres de los paises*/
-    font-size: 1.8em;/*tamano de fuente mas grande para los titulos de los paises*/
-    margin-bottom: 5px;/*espacio inferior para separar del texto*/
+    color: #e74c3c;
+    font-size: 1.8em;
+    margin-bottom: 5px;
 
 }
 .country-section p{
     font-size: 1em;
     color: #2c3e50;
     width: 80%;
-    margin: 0 auto 20px auto;/*centrando los parrafos y añadiendo margen inferior */
-    text-align: justify;/*justificar el texto para un aspecto limpio*/
+    margin: 0 auto 20px auto;
+    text-align: justify;
 
 }
 
 a{
-    color: #8e44ad;/*colo morado para los enlaces*/
+    color: #8e44ad;
     text-decoration: none;
-    font-weight: 700;/*enlaces mas gruesos para mejorar la visibilidad*/
+    font-weight: 700;
 
 }
 a:hover{
-    color: #9b59b6;/*color mas claro al pasar el mouse*/
-    text-decoration: underline;/*subrayar enlaces al pasar el ,mouse*/
+    color: #9b59b6;
+    text-decoration: underline;
 
 }
 
